@@ -3,7 +3,7 @@
 #### Create a 2D-UNet deep learning model in Pytorch to segment brain tumors. Follow this step-by-step guide using the exciting FiftyOne computer vision toolkit to improve data processing and model optimization.
 
 <br>
-<strong>UNet tumor segmentations are impressive after <strong>only</strong> only 25 epochs. Inference masks: dark shading, dice loss=0.82; Ground trurh masks white shading</strong>
+<strong>UNet tumor segmentations are impressive after <strong>only</strong> only 25 epochs. Inference masks: dark shading, dice loss=0.82; Ground truth masks: white shading</strong>
 <br>
 <img src="./demo_images/tumor_segment_example3-1.png" alt="">
 <br>
