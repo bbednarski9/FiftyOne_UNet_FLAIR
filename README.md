@@ -1,9 +1,8 @@
 # FiftyOne - UNet - FLAIR
 ## Follow <a href="https://github.com/bbednarski9/FiftyOne_UNet_FLAIR/blob/main/demo_notebook.ipynb">demo_notebook.ipynb</a> for step-by-step AI modeling for brain lesion segmentation using FiftyOne, PyTorch, and a UNet model!
-#### Create a 2D-UNet deep learning model in Pytorch to segment brain tumors. Follow this step-by-step guide using the exciting FiftyOne computer vision toolkit to improve data processing and model optimization.
 
 <br>
-<strong>UNet tumor segmentations are impressive after <strong>only</strong> only 25 epochs. Inference masks: dark shading, dice loss=0.82; Ground truth masks: white shading</strong>
+<strong>Create a 2D-UNet deep learning model in Pytorch to segment brain tumors using the exciting FiftyOne computer vision toolkit to improve data processing and model optimization. UNet tumor segmentations are impressive after <strong>only</strong> only 25 epochs. Inference masks: dark shading, dice loss=0.82; Ground truth masks: white shading</strong>
 <br>
 <img src="./demo_images/tumor_segment_example3-1.png" alt="">
 <br>
