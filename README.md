@@ -38,3 +38,4 @@ Email: bryanbed@g.ucla.edu<br>
 <br>
 <br>![Image](./demo_images/tumor_segment_example3-2.png)<br>
 <br>
+<img src="./demo_images/tumor_segment_example3-2.png" alt="">
