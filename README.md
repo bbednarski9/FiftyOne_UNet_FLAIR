@@ -22,6 +22,12 @@ Core Tools: FiftyOne, Pytorch, Numpy<br>
 ## Results
 UNet model achieves Dice Loss of 0.82 after only 25 epochs of training on 90% of FLAIR dataset. 10% witheld for validation. No external or temporal hold-out in this demo.
 
+<br>
+<strong>Comparing many samples at once with FiftyOne displays multiple slices in an imaging series by patient</strong>
+<br>
+<img src="./demo_images/tumor_segment_example3-2.png" alt="">
+<br>
+
 ## To do:
 <ul>
     <li>Find or write a FiftyOne extension to improve viewing of 3D volumes of image slices</li>
@@ -35,10 +41,4 @@ Prepared by: Bryan Bednarski, September 2023<br>
 Github: https://github.com/bbednarski9/FiftyOne_UNet_FLAIR<br>
 Email: bryanbed@g.ucla.edu<br>
 </i>
-
-<br>
-<strong>Comparing many samples at once with FiftyOne displays multiple slices in an imaging series by patient</strong>
-<br>
-<img src="./demo_images/tumor_segment_example3-2.png" alt="">
-<br>
 
