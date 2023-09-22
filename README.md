@@ -1,4 +1,4 @@
-# FiftyOne - UNet - FLAIR
+# FiftyOne - UNet - FLAIR: Deep Learing Tumor Segmentation
 ## Follow <a href="https://github.com/bbednarski9/FiftyOne_UNet_FLAIR/blob/main/demo_notebook.ipynb">demo_notebook.ipynb</a> for step-by-step AI modeling for brain lesion segmentation using FiftyOne, PyTorch, and a UNet model!
 
 <br>
