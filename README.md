@@ -28,13 +28,11 @@ Prepared by: Bryan Bednarski, September 2023<br>
 Github: https://github.com/bbednarski9/FiftyOne_UNet_FLAIR<br>
 Email: bryanbed@g.ucla.edu<br>
 </i>
-
-![Image](./demo_images/tumor_segment_example3-1.png)
 <br>
 <strong>FIGURE 1: UNet segmentations 25 epochs (dark mask) of training vs. ground truth (white)</strong>
-<br>
-![Image](./demo_images/tumor_segment_example3-2.png)
+![Image](./demo_images/tumor_segment_example3-1.png)
 <br>
 <br>
 <strong>FIGURE 2: Comparing many samples at once with FiftyOne</strong>
+![Image](./demo_images/tumor_segment_example3-2.png)
 <br>
