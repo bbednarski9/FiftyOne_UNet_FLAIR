@@ -31,11 +31,11 @@ Email: bryanbed@g.ucla.edu<br>
 <br>
 <strong>FIGURE 1: UNet segmentations 25 epochs (dark mask) of training vs. ground truth (white)</strong>
 <br>
-<br>![Image](./demo_images/tumor_segment_example3-1.png)<br>
+<img src="./demo_images/tumor_segment_example3-1.png" alt="">
 <br>
 <br>
 <strong>FIGURE 2: Comparing many samples at once with FiftyOne</strong>
 <br>
-<br>![Image](./demo_images/tumor_segment_example3-2.png)<br>
-<br>
 <img src="./demo_images/tumor_segment_example3-2.png" alt="">
+<br>
+
