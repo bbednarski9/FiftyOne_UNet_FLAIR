@@ -4,7 +4,7 @@ Create a 2D-UNet deep learning model in Pytorch to segment brain tumors. Follow 
 # Goal: Step-by-step AI Optimization for Brain Lesion Segmentation with FiftyOne, PyTorch, and a 2D UNet model
 
 <br>
-<strong>FIGURE 1: UNet tumor segmentations after <strong>only</strong> 25 epochs (dark mask, dice loss > 0.8) of training vs. ground truth (white)</strong>
+<strong>UNet tumor segmentations are impressive after <strong>only</strong> only 25 epochs. Inference masks: dark shading, dice loss=0.82; Ground trurh masks white shading</strong>
 <br>
 <img src="./demo_images/tumor_segment_example3-1.png" alt="">
 <br>
@@ -39,7 +39,7 @@ Email: bryanbed@g.ucla.edu<br>
 </i>
 
 <br>
-<strong>FIGURE 2: Comparing many samples at once with FiftyOne</strong>
+<strong>Comparing many samples at once with FiftyOne displays multiple slices in an imaging series by patient</strong>
 <br>
 <img src="./demo_images/tumor_segment_example3-2.png" alt="">
 <br>
