@@ -1,5 +1,5 @@
 # FiftyOne_UNet_FLAIR
-Use of FiftyOne to improve FLAIR brain MRI data processing and training of a 2D-UNet segmentation network (PyTorch)
+Create a 2D-UNet deep learning model in Pytorch to segment brain tumors. Follow this step-by-step guide using the exciting FiftyOne computer vision toolkit to improve data processing and model optimization.
 
 # Goal: Step-by-step AI Optimization for Brain Lesion Segmentation with FiftyOne, PyTorch, and a 2D UNet model
 
