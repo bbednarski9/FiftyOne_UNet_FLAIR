@@ -15,6 +15,9 @@ Model Weights: available on <a href="https://drive.google.com/drive/folders/1ECU
 Dataset: FLAIR Brain MRI - Segmenting Low-Grade Glioma Tumors<br>
 Core Tools: FiftyOne, Pytorch, Numpy<br>
 
+## Results
+UNet model achieves Dice Loss of 0.82 after only 25 epochs of training on 90% of FLAIR dataset. 10% witheld for validation. No external or temporal hold-out in this demo.
+
 ## To do:
 <ul>
     <li>Find or write a FiftyOne extension to improve viewing of 3D volumes of image slices</li>
