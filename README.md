@@ -3,6 +3,12 @@ Create a 2D-UNet deep learning model in Pytorch to segment brain tumors. Follow 
 
 # Goal: Step-by-step AI Optimization for Brain Lesion Segmentation with FiftyOne, PyTorch, and a 2D UNet model
 
+<br>
+<strong>FIGURE 1: UNet segmentations 25 epochs (dark mask) of training vs. ground truth (white)</strong>
+<br>
+<img src="./demo_images/tumor_segment_example3-1.png" alt="">
+<br>
+
 ## Motivation
 
 Medical imaging is a huge application space for computer vision and AI. The U.S. medical industry is over 17% of national GDP. With the average age of cancer screenings moving up, it's important to facilitate the rapid development of medical CV by allowing practitioners to robustly curate datasets, annotations, and develop models directly on top of the data platform. FiftyOne is well-positioned to become an irreplacable tool in the model development pipeline. However, medical imaging also offers a unique set of challenges such as unique file types, 3D volumetric data, and unique image metadata per application. Additionally, medical imaging tasks are frequently comprised of "non-natural" images, which may not facilitate acceptable performance from pretrained foundational imaging models.<br>
@@ -31,11 +37,7 @@ Prepared by: Bryan Bednarski, September 2023<br>
 Github: https://github.com/bbednarski9/FiftyOne_UNet_FLAIR<br>
 Email: bryanbed@g.ucla.edu<br>
 </i>
-<br>
-<strong>FIGURE 1: UNet segmentations 25 epochs (dark mask) of training vs. ground truth (white)</strong>
-<br>
-<img src="./demo_images/tumor_segment_example3-1.png" alt="">
-<br>
+
 <br>
 <strong>FIGURE 2: Comparing many samples at once with FiftyOne</strong>
 <br>
